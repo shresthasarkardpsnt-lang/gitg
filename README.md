@@ -1,1 +1,1 @@
-# gitg
+print("hello")
